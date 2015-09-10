@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://SrishtiSengupta.github.io
+title: insanegupta
+tagline: A peek into my life!
+description: My awesome new site
+paginate: 5
